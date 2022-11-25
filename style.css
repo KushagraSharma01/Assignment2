@@ -1,0 +1,210 @@
+#sp1{
+    background-color:palegoldenrod;
+    background: url(https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/08/spotify-home-page-1660115575.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100%;
+    border-radius: 5px;
+    height:700px;
+    width:100%;
+    padding:3px;
+}
+.navele button{
+
+    width: 150px;
+    height: 70px;
+    color: #29d9d5;
+    border:2px solid  #29d9d5;
+    background-color: rgb(36, 13, 13);
+    border-radius: 25px;
+    font-size: 15px;
+
+    margin-left: 240px;
+}
+#pogo1{
+
+    width: 80px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 300px;
+}
+.navBar{
+
+    width: 100vw;
+    height: 11vh;
+    background-color: black;
+
+    display: flex;
+    justify-content: space-between;
+
+    border-bottom: 0.1px solid #d3ad7f;
+
+    align-items: center;
+    position: fixed;
+
+    top: 0px;
+    right: 0px;
+    left: 0px;
+
+}
+.navele{
+   
+    width: 75%;
+    position: absolute;
+    margin-left: 1000px;
+    
+ }
+ 
+
+
+
+.navBar h1{
+
+    color: white;
+    margin-right: 1400px;
+
+    
+}
+*{
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.navele a:hover{
+
+    color: #00ff00;
+}
+.navele a{
+
+    color:white;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 10px;
+
+}
+
+
+
+.navele span {
+    color: white;
+    cursor: default;
+}
+
+
+
+
+
+.navele {
+
+    border-radius: 3px;
+}
+
+
+
+
+span{
+    background-color: lime;
+    border:2px;
+    margin-left:700px;
+    border-radius:2px;
+    padding:10;
+}
+span:hover{
+    background-color: blue;
+}
+img{
+    border-radius: 8px;
+    margin-left: 120px;
+}
+.center{
+    text-align: center;
+}
+.cc{
+    font-size: 40px;
+    margin-left:200px;
+}
+.button{
+    margin-left:700px;
+}
+footer{
+    background:black;
+}
+.h0{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+    
+}
+.h3{color:white;
+    text-align: left;
+    padding-left:20px;
+}
+.h1{
+    padding-left:20px;
+    color:white;
+    text-align: left;
+}
+.h9{
+    padding-left: 20px;
+    color:white;
+    text-align:left;
+}
+.h2{
+    padding-left:20px;
+    color:white;
+    text-align: left;
+}
+.h5{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+
+.h4{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+.h8{
+    padding-left: 20px;
+    color:white;
+    text-align:left;
+}
+.h6{
+    padding-left: 20px;
+    color:white;
+    text-align:left;
+}
+
+.h7{
+    padding-left: 20px;
+    color:white;
+    text-align:left;
+}
+
+.pi2{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+.pi{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+.hit1{
+    padding-left: 50px;
+}
+.pi1{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
+
+.pi3{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+}
